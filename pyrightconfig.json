@@ -1,0 +1,14 @@
+{
+  "venvPath": "C:\\Users\\Administrator\\AppData\\Local\\venvs",
+  "venv": "amazon-bedrock-serverless-prompt-chaining",
+  "extraPaths": ["."],
+  "pythonVersion": "3.13",
+  "typeCheckingMode": "off",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonVersion": "3.13",
+      "extraPaths": ["."]
+    }
+  ]
+}
